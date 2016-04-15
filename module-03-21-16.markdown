@@ -138,6 +138,7 @@ Make sure to **remove** your name once you select a topic and move it under a fo
 #### Blog Posts for turing.io/blog (*Limit 2*)
 
 * Student Name - [Blog Title](http://gist.github.com/username/link-to-my-outline-gist)
+* Nick Weiland - [Conquer Rails Model Generation](https://medium.com/@weilandia/conquer-rails-model-generation-edcc5fd5083d#.49lbz4j5m)
 
 #### Screencasts for turing.io/blog (*Limit 2*)
 
